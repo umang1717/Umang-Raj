@@ -1,6 +1,6 @@
 # Bollywood Movies Data Analysis 🎬
 
-![Bollywood Analytics Banner](IMG-20250412-WA0060 (1).jpg)
+![Bollywood Analytics Banner](IMG-20250412-WA0060.jpg)
 
 I am excited to share my latest data analysis project on Bollywood movies!
 
@@ -14,16 +14,16 @@ This analysis includes:
 ![Genre Analysis](IMG-20250412-WA0059.jpg)
 
 * 🔄 Comparing the success of remakes versus original movies
-![Remakes vs Originals](IMG-20250412-WA0060 (1).jpg)
+![Remakes vs Originals](IMG-20250412-WA0060.jpg)
 
 * 💰 Studying the relationship between budget and revenue
-![Budget vs Revenue Analysis](Screenshot (176).png)
+![Budget vs Revenue Analysis](Screenshot.png)
 
 * ⭐ Highlighting the most featured and highest-grossing lead stars
-![Top Stars Performance Analysis](Screenshot (177).png)
+![Top Stars Performance Analysis](Screenshot_r.png)
 
 * 📈 And uncovering some unexpected trends along the way!
-![Industry Trends and Patterns](Screenshot (180).png)
+![Industry Trends and Patterns](Screenshot_x.png)
 
 ## Technical Stack 🛠️
 
