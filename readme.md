@@ -17,13 +17,13 @@ This analysis includes:
 ![Remakes vs Originals](IMG-20250412-WA0060 (1).jpg)
 
 * 💰 Studying the relationship between budget and revenue
-![Budget vs Revenue](Screenshot (176).png)
+![Budget vs Revenue Analysis](Screenshot (176).png)
 
 * ⭐ Highlighting the most featured and highest-grossing lead stars
-![Star Analysis](Screenshot (177).png)
+![Top Stars Performance Analysis](Screenshot (177).png)
 
 * 📈 And uncovering some unexpected trends along the way!
-![Unexpected Trends](Screenshot (180).png)
+![Industry Trends and Patterns](Screenshot (180).png)
 
 ## Technical Stack 🛠️
 
