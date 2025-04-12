@@ -1,6 +1,6 @@
 # Bollywood Movies Data Analysis 🎬
 
-![Bollywood Analytics Banner](../images/bollywood-analytics-banner.png)
+![Bollywood Analytics Banner](IMG-20250412-WA0060 (1).jpg)
 
 I am excited to share my latest data analysis project on Bollywood movies!
 
